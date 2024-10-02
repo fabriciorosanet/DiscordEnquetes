@@ -55,7 +55,7 @@ async def on_ready():
     channel = bot.get_channel(channel_id)
     
     if channel:
-        question = "Como você avalia o seu perfil no LinkedIn?"
+        question = " Como você avalia o seu perfil no LinkedIn?"
         options = [
             "Excelente – Perfil completo e atrativo",
             "Bom – Perfil sólido, espaço para melhorias",
